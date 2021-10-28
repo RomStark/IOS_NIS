@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B852C4CA-9E53-4553-9CCE-5CAEA4BC86E3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rgtarkovskiyPW4/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - d07ef04475d62835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.notesCollectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - dde30ac2726a77cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.notesCollectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - 9c124e353ebf03c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.notesCollectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - b9499ea02b2566d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.notesCollectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - bbdc98a1859590e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; rgtarkovskiyPW4.ViewController"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "ECDECC85-EBE0-4A3A-8566-C6DA4FD845C8 - cffa87154f8dea15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW4.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;rgtarkovskiyPW4.ViewController&gt;"
+                  moduleName = "rgtarkovskiyPW4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW4/rgtarkovskiyPW4/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
